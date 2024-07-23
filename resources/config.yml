@@ -1,0 +1,8 @@
+# BanItems Configuration
+
+banned-items:
+  - "minecraft:bedrock"
+
+messages:
+  ban-message: "You are not allowed to use this item: {item}"
+  cannot-use-message: "You cannot use this item: {item}"
